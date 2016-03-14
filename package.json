@@ -1,0 +1,8 @@
+{
+  "name": "async-parallel",
+  "version": "1.0.0",
+  "main": "parallel.js",
+  "dependencies": {
+    "async": "^1.5.2"
+  }
+}
